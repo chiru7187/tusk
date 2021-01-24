@@ -9,3 +9,6 @@ chicken
 
 
 thank u
+
+
+copy
